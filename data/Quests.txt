@@ -1,0 +1,13 @@
+<quest 1:De l'eau...|1|0>
+Trouve de l'\c[9]eau \c[0]!!!
+L'eauuuu,another resolution here,another resolution here
+Tu a besoins de boire,
+alors trouve de l'eau rapidement.
+</quest>
+<quest 2:De la vie ici ?|2|0>
+Trouver la Plaine Fleurie.,Trouver des traces de vie.,Lavage.,Utiliser la Compétence.,Utiliser la Potion.,Récupérer de la vie.,Trouver une Arme.,Battre un Monstre.,Utiliser la Compétence.,Toucher la Stèle.,Battre l'Orc.
+Un passage ?,de la vie ?,Se Laver
+Tu ne sais pas ou tu es,
+tu doit donc trouver des 
+Informations sur ce monde !!
+</quest>
