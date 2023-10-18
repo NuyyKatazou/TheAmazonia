@@ -28,6 +28,7 @@
 	Nuyy Katazou
 	SarTeK La W33D
 	ryo
+	starplanyte
 	
 	
 	Plugins Dev :
@@ -46,6 +47,7 @@
 			  MapQuestionWindow / VisualHpGauge
 			  SaveCore / MessageSpeedOption / GabWindow
 			  FpsSynchOption / RegionRestrictions
+			  Keyboard Config
 	
 	SumRndmDde -> BattleEndEvents / CameraCore
 				  GameOverCore / MapSlipDamage
@@ -116,4 +118,17 @@
 	Developed by :
 	
 	Nuyy Katazou
+	
+	
+	Graphist :
+	
+	Lunarea
+	Enterbrain, INC.
+	Archeia 
+	Caz
+	KADOKAWA
+	Degica
+	Marimo
+	Liquidize
+
     </block>
