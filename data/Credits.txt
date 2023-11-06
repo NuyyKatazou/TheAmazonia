@@ -1,4 +1,4 @@
- <block:8775,1,175,175,-3775,center,Book>
+ <block:9500,1,175,175,-4700,center,Book>
 	Game Released :
 	
 	BETA : Aprils 19 2022
@@ -29,6 +29,18 @@
 	SarTeK La W33D
 	ryo
 	starplanyte
+	
+	
+	Graphist :
+	
+	Lunarea
+	Enterbrain, INC.
+	Archeia 
+	Caz
+	KADOKAWA
+	Degica
+	Marimo
+	Liquidize
 	
 	
 	Plugins Dev :
@@ -118,17 +130,5 @@
 	Developed by :
 	
 	Nuyy Katazou
-	
-	
-	Graphist :
-	
-	Lunarea
-	Enterbrain, INC.
-	Archeia 
-	Caz
-	KADOKAWA
-	Degica
-	Marimo
-	Liquidize
 
     </block>
