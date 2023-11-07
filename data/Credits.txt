@@ -74,7 +74,7 @@
  
 	Logiciel Used :
 	
-	RPG Maker MV (V 1.6.1)
+	RPG Maker MV (V 1.6.3b)
 	
 	
 	Also For :
