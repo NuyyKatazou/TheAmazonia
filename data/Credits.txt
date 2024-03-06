@@ -65,6 +65,7 @@
 			  FpsSynchOption / RegionRestrictions
 			  Keyboard Config / BaseParamControl
 			  ExtraParamFormula / PluginCmdSwVar
+			  Autosave
 	
 	SumRndmDde -> BattleEndEvents / CameraCore
 				  GameOverCore / MapSlipDamage
