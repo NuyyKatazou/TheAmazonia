@@ -64,7 +64,7 @@
 			  SaveCore / MessageSpeedOption / GabWindow
 			  FpsSynchOption / RegionRestrictions
 			  Keyboard Config / BaseParamControl
-			  ExtraParamFormula
+			  ExtraParamFormula / PluginCmdSwVar
 	
 	SumRndmDde -> BattleEndEvents / CameraCore
 				  GameOverCore / MapSlipDamage
