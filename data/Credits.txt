@@ -63,7 +63,8 @@
 			  MapQuestionWindow / VisualHpGauge
 			  SaveCore / MessageSpeedOption / GabWindow
 			  FpsSynchOption / RegionRestrictions
-			  Keyboard Config
+			  Keyboard Config / BaseParamControl
+			  ExtraParamFormula
 	
 	SumRndmDde -> BattleEndEvents / CameraCore
 				  GameOverCore / MapSlipDamage
@@ -75,7 +76,9 @@
 	
 	Fallen Angel Olivia -> AntiPlayerStress
 	
-	Irina -> Anti-Audio Delay / Performance Upgrade
+	Irina -> AntiAudioDelay / PerformanceUpgrade
+	
+	Aries -> SystemCustomiser
  
  
 	Logiciel Used :
