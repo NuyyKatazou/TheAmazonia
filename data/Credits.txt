@@ -58,14 +58,15 @@
 			TimerEndEvent / EnemyAI / ActionIndicators
 			EventStartTypes / TitleCommands
 	
-	Yanfly -> SkillCore / SkillCooldowns / MessageCore
-			  OptionsCore / CoreEngine / QuestJournal
-			  MapQuestionWindow / VisualHpGauge
-			  SaveCore / MessageSpeedOption / GabWindow
-			  FpsSynchOption / RegionRestrictions
-			  Keyboard Config / BaseParamControl
-			  ExtraParamFormula / PluginCmdSwVar
-			  Autosave
+	Yanfly -> SkillCore / SkillCooldowns / MessageCore /OptionsCore
+			  CoreEngine / QuestJournal MapQuestionWindow
+			  VisualHpGauge / SaveCore / MessageSpeedOption
+			  GabWindow / FpsSynchOption / RegionRestrictions
+			  Keyboard Config / BaseParamControl / ExtraParamFormula
+			  PluginCmdSwVar / Autosave / ActSeqPack1,2,3
+			  AnimatedSVEnemies / AbsorptionBarrier / BuffsStatesCore
+			  ExtDoT / ExtraEnemyDrops / HitAccuracy
+			  LevelUpGrowthEffects
 	
 	SumRndmDde -> BattleEndEvents / CameraCore
 				  GameOverCore / MapSlipDamage
