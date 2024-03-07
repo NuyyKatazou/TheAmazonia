@@ -66,7 +66,7 @@
 			  PluginCmdSwVar / Autosave / ActSeqPack1,2,3
 			  AnimatedSVEnemies / AbsorptionBarrier / BuffsStatesCore
 			  ExtDoT / ExtraEnemyDrops / HitAccuracy
-			  LevelUpGrowthEffects
+			  LevelUpGrowthEffects / VictoryAftermath
 	
 	SumRndmDde -> BattleEndEvents / CameraCore
 				  GameOverCore / MapSlipDamage
