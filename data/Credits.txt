@@ -49,11 +49,9 @@
 	
 	Plugins Dev :
 	
-	Galv -> TimedMessagePopups / MenuFade
-	        VisibilityRange / PrizeWheel / WeaponProf
-			EventDetectors / MoveRouteExtras
-			RollCredits / SingleActorMenuTarget
-			LoadCommonEvent / SimpleCrops / PuzzleFunctions
+	Galv -> TimedMessagePopups / MenuFade / VisibilityRange
+			WeaponProf / EventDetectors / RollCredits
+			SingleActorMenuTarget / LoadCommonEvent / SimpleCrops
 			DynamicTraits / CustomTitle / EventSpawnTimers
 			TimerEndEvent / EnemyAI / ActionIndicators
 			EventStartTypes / TitleCommands
@@ -66,15 +64,14 @@
 			  PluginCmdSwVar / Autosave / ActSeqPack1,2,3
 			  AnimatedSVEnemies / AbsorptionBarrier / BuffsStatesCore
 			  ExtDoT / ExtraEnemyDrops / HitAccuracy
-			  LevelUpGrowthEffects / VictoryAftermath
+			  LevelUpGrowthEffects / VictoryAftermath / ItemCore
+			  ItemDicard / ItemCategories
 	
-	SumRndmDde -> BattleEndEvents / CameraCore
-				  GameOverCore / MapSlipDamage
-				  MetronomeSkill / ReapeatUpgrade
-				  SkillExtender / SwitchShop
-				  EquipCompareUpgrade / MasterVolume
-				  SellShop / WaitOptions / WeaponGuard
-				  WalkCharBattlers (http://sumrndm.site/)
+	SumRndmDde -> BattleEndEvents / CameraCore / GameOverCore
+				  MapSlipDamage / MetronomeSkill / ReapeatUpgrade
+				  SkillExtender / SwitchShop / EquipCompareUpgrade
+				  MasterVolume / SellShop / WaitOptions 
+				  WeaponGuard / WalkCharBattlers (http://sumrndm.site/)
 	
 	Fallen Angel Olivia -> AntiPlayerStress
 	
