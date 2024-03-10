@@ -65,7 +65,9 @@
 			  AnimatedSVEnemies / AbsorptionBarrier / BuffsStatesCore
 			  ExtDoT / ExtraEnemyDrops / HitAccuracy
 			  LevelUpGrowthEffects / VictoryAftermath / ItemCore
-			  ItemDicard / ItemCategories
+			  ItemDiscard / ItemCategories / ItemRequirements
+			  LimitedSkillUses / SkillRewards / EquipCore
+			  EquiRequirements
 	
 	SumRndmDde -> BattleEndEvents / CameraCore / GameOverCore
 				  MapSlipDamage / MetronomeSkill / ReapeatUpgrade
