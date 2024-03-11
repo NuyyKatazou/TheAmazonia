@@ -66,8 +66,7 @@
 			  ExtDoT / ExtraEnemyDrops / HitAccuracy
 			  LevelUpGrowthEffects / VictoryAftermath / ItemCore
 			  ItemDiscard / ItemCategories / ItemRequirements
-			  LimitedSkillUses / SkillRewards / EquipCore
-			  EquiRequirements
+			  LimitedSkillUses / SkillRewards
 	
 	SumRndmDde -> BattleEndEvents / CameraCore / GameOverCore
 				  MapSlipDamage / MetronomeSkill / ReapeatUpgrade
