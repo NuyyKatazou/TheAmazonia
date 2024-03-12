@@ -68,6 +68,7 @@
 			  ItemDiscard / ItemCategories / ItemRequirements
 			  LimitedSkillUses / SkillRewards / AutoPassiveStates
 			  AnimateTilesOption / BattleAniSpeedOpt
+			  EventProxActivate / EventSpriteOffset
 	
 	SumRndmDde -> BattleEndEvents / CameraCore / GameOverCore
 				  MapSlipDamage / MetronomeSkill / ReapeatUpgrade
