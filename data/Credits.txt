@@ -69,6 +69,7 @@
 			  LimitedSkillUses / SkillRewards / AutoPassiveStates
 			  AnimateTilesOption / BattleAniSpeedOpt
 			  EventProxActivate / EventSpriteOffset
+			  EventTimerControl
 	
 	SumRndmDde -> BattleEndEvents / CameraCore / GameOverCore
 				  MapSlipDamage / MetronomeSkill / ReapeatUpgrade
