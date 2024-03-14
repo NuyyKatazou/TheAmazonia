@@ -63,13 +63,13 @@
 			  Keyboard Config / BaseParamControl / ExtraParamFormula
 			  PluginCmdSwVar / Autosave / ActSeqPack1,2,3
 			  AnimatedSVEnemies / AbsorptionBarrier / BuffsStatesCore
-			  ExtDoT / ExtraEnemyDrops / HitAccuracy
+			  ExtDoT / ExtraEnemyDrops / HitAccuracy / CallEvent
 			  LevelUpGrowthEffects / VictoryAftermath / ItemCore
 			  ItemDiscard / ItemCategories / ItemRequirements
 			  LimitedSkillUses / SkillRewards / AutoPassiveStates
 			  AnimateTilesOption / BattleAniSpeedOpt
 			  EventProxActivate / EventSpriteOffset
-			  EventTimerControl
+			  EventTimerControl / IconBalloons / VehicleRestrict
 	
 	SumRndmDde -> BattleEndEvents / CameraCore / GameOverCore
 				  MapSlipDamage / MetronomeSkill / ReapeatUpgrade
