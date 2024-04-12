@@ -11,6 +11,8 @@
 	
 	Final Version : Not Finished
 	
+	Actual Version : 0.2.0-Part1
+	
 	
 	Game Discord : 
 	
