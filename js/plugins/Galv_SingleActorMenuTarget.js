@@ -78,9 +78,9 @@ if (Galv.SAMT.menus) {
 	Scene_Item.prototype.onItemOk = function() {
 		Galv.SAMT.Scene_Item_onItemOk.call(this);
 		if (Galv.SAMT.oneMember()) {
-			this.onActorOk();
-			this.onActorCancel();
-		}
+            this.onActorOk();
+            this.onActorCancel();
+        }
 	};
 	
 	Galv.SAMT.Scene_Skill_onItemOk = Scene_Skill.prototype.onItemOk;
