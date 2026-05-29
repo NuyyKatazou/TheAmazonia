@@ -16,13 +16,13 @@
 	
 	Game Discord : 
 	
-	https://discord.com/invite/KZehfNx7ZG
+	https://discord.com/invite/FMjuQYdBsJ
 	
 	
 	Writer :
 	
 	Nuyy Katazou
-	Isabelle (Correctrice)
+	Someone else (Correctrice)
 	
 	
 	Tester :
@@ -33,6 +33,8 @@
 	starplanyte
 	islort
 	uwuchevaldemetalchan
+	dismxs
+	aoi_yuna
 	
 	
 	Graphist :
@@ -79,6 +81,8 @@
 				  SkillExtender / SwitchShop / EquipCompareUpgrade
 				  MasterVolume / SellShop / WaitOptions 
 				  WeaponGuard / WalkCharBattlers (http://sumrndm.site/)
+				  
+	VCM Plugins -> MovementSpeeds
 	
 	Fallen Angel Olivia -> AntiPlayerStress
 	
