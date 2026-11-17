@@ -438,7 +438,6 @@ Window_Base.prototype.drawWeaponProf = function(index,rect) {
 		var rect = rect || this.itemRect(index);
 		rect.width -= this.textPadding();
 		this.changePaintOpacity(1);
-		console.log(skill);
 		this.drawItemName(skill, rect.x, rect.y, rect.width - costWidth);
 		this.drawWeaponProfValues(skill, rect.x, rect.y, rect.width);
 	}

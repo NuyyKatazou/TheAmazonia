@@ -190,6 +190,14 @@ Aries.P002_SYSX.FontShadowOffsetY = Number(Aries.P002_SYSX.Param["Font Shadow: S
 Bitmap.prototype.drawText = function(text, x, y, maxWidth, lineHeight, align) {
     // Note: Firefox Bug 737852
     if (text !== undefined) {
+        // Amazonia fix: keep YEP_CoreEngine's pixel rounding (sharp text) and
+        // negative width guard, which this override used to discard.
+        x = Math.floor(x);
+        y = Math.floor(y);
+        lineHeight = Math.floor(lineHeight);
+        if (maxWidth < 0) maxWidth = 0;
+        maxWidth = Math.floor(maxWidth);
+        align = align || 'left';
         var tx = x;
         var ty = y + lineHeight - (lineHeight - this.fontSize * 0.7) / 2;
         var context = this._context;

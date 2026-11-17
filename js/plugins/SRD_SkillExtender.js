@@ -220,7 +220,7 @@ Scene_Battle.prototype.commandSkill = function() {
 _.Scene_Battle_onSkillOk = Scene_Battle.prototype.onSkillOk;
 Scene_Battle.prototype.onSkillOk = function() {
 	var skill = this._skillWindow.item();
-	if(skill._se_extendSkills) {
+	if(skill && skill._se_extendSkills) {
 		this.openSkillExtendWindow(skill);
 	} else {
 		_.Scene_Battle_onSkillOk.apply(this, arguments);
@@ -284,7 +284,7 @@ Scene_Skill.prototype.cancelSkillExtend = function() {
 _.Scene_Skill_item = Scene_Skill.prototype.item;
 Scene_Skill.prototype.item = function() {
 	const item = _.Scene_Skill_item.apply(this, arguments);
-	if(item._se_extendSkills) {
+	if(item && item._se_extendSkills) {
 		if(this._skillExtend.isClosed()) {
 			return 'extend';
 		} else {

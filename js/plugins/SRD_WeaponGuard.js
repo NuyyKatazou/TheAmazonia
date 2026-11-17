@@ -62,7 +62,8 @@
 	      	_Scene_Battle_commandGuard.call(this);
 	      	return;
     	}
-    	this.selectEnemySelection();
+    	// Amazonia fix: ally/self guard skills must not open enemy selection.
+    	this.onSelectAction();
 	};
 
 })();
